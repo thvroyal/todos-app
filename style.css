@@ -1,0 +1,10 @@
+a:hover {
+    text-decoration: none;
+}
+.btn-fake {
+    cursor: pointer;
+}
+.completed {
+    text-decoration: line-through;
+    opacity: .6;
+}
